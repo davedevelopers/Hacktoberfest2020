@@ -1,7 +1,7 @@
 ---
-name: Ankita Puri
-institution: Thapar Institute of Engineering and Technology
-image: AnkitaPuri.jpg
+name: Keshav Agrawal
+institution: Rajasthan Technical University,Kota
+image: taz2.jpeg
 quote: “Make it work, make it right, make it fast.”
-github: ankitapuri
+github: Keshav04042001
 ---
